@@ -1,6 +1,9 @@
 ## 👋 Hi I'm Carolina | Engineer in Information Technologies and Communications  
 
 Welcome to my GitHub! I'm passionate about developing efficient, scalable web solutions and leveraging my project management skills to lead impactful projects.
+![Descripción de la imagen](https://example.com/mi-imagen.png)
+
+
 🚀 About Me
 
     🌱 I’m currently working on frontend development and expanding my knowledge in Angular and JavaScript.
