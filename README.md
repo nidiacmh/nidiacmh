@@ -1,4 +1,4 @@
-## Hi I'm Carolina | Engineer in Information Technologies and Communications  👋
+## 👋 Hi I'm Carolina | Engineer in Information Technologies and Communications  
 
 <!--
 **nidiacmh/nidiacmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
