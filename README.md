@@ -21,6 +21,8 @@ Welcome to my GitHub! I'm passionate about developing efficient, scalable web so
 
     Backend: Node, Express, JWT
     Frontend: 
+    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
     https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
     https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white
     
