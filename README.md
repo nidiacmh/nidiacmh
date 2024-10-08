@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm passionate about developing efficient, scalable web so
 
 
 
-# 💫 About Me
+💫 About Me
 
     🌱 I’m currently working on frontend development and expanding my knowledge in Angular and JavaScript.
     💼 My first project was developing a Money Laundering Control System for a financial institution.
